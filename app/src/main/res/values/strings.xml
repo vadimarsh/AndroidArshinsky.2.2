@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Просмотр фото</string>
+    <string name="textLink" />
+    <string name="photoitem">PhotoItem</string>
+    <string name="butback">Назад</string>
+    <string name="butforvard">Вперед</string>
+    <string name="url">http://myfile.org/</string>
+</resources>
